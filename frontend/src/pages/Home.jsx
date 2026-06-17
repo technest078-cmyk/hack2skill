@@ -91,9 +91,9 @@ const Home = () => {
               </motion.div>
               
               <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight tracking-tighter">
-                Measure Every Choice.{' '}
+                Your Carbon Footprint.{' '}
                 <span className="text-white relative drop-shadow-[0_0_30px_rgba(255,255,255,0.5)]">
-                  Reduce Every Emission.
+                  Visualized. Optimized.
                   <motion.span
                     className="absolute inset-0 bg-gradient-analytics opacity-10 blur-xl"
                     animate={{ scale: [1, 1.2, 1] }}
