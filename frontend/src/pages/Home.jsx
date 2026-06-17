@@ -108,8 +108,7 @@ const Home = () => {
               transition={{ delay: 0.5 }}
               className="text-xl md:text-2xl text-textLight mb-10 max-w-3xl mx-auto leading-relaxed"
             >
-              <span className="font-bold text-white drop-shadow-lg">Carbon AI</span> transforms daily activities into actionable carbon insights 
-              using <span className="text-white font-semibold drop-shadow-lg">advanced analytics</span> and <span className="text-white font-semibold drop-shadow-lg">AI-driven recommendations</span>.
+              Advanced <span className="font-bold text-white drop-shadow-lg">AI</span> meets environmental action. Calculate, analyze, and optimize your <span className="text-white font-semibold drop-shadow-lg">carbon footprint</span> in real-time.
             </motion.p>
           </motion.div>
 
